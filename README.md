@@ -31,5 +31,6 @@ Descrição: Exclui um item com base no ID fornecido.
   "title": "Item de Exemplo",
   "category": "Categoria de Exemplo",
   "quantity": 3,
+  "unit": "kg"
   "purchased": false
 }

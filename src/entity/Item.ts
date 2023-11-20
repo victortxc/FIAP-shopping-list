@@ -15,6 +15,8 @@ export class Item {
   @Column()
   category: string;
   @Column()
+  unit: string;
+  @Column()
   quantity: number;
   @Column({
     default: false,
